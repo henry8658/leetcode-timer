@@ -1,2 +1,2 @@
 # leetcode-timer
-Chrome extension for leetcode timer
+Chrome extension leetcode timer
